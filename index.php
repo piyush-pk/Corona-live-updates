@@ -37,7 +37,7 @@
 
 
 	<meta name="keywords" content="piyushpk, piyush pk, corona tracker, corona live updates, corona news, latest news, covid-19,covid-19 updates, corona antidote">
-	<<meta name="Description" content="Latest Corona Updates OF India & All Over The World, Let's Check out">
+	<meta name="Description" content="Latest Corona Updates OF India & All Over The World, Let's Check out">
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<title>COVID-19 Stay Home, Stay Safe</title>
